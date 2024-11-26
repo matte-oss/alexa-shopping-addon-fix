@@ -6,7 +6,7 @@ url: "https://github.com/matte-oss/alexa-shopping-list-fix"
 arch:
   - aarch64
   - amd64
-image: "madmachinations/ha-alexa-shopping-list-sync"
+image: "aronnebrivio/ha-alexa-shopping-list-sync"
 startup: "services"
 ports:
   4000/tcp: 4000
