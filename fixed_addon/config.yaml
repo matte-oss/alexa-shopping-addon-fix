@@ -1,5 +1,5 @@
 name: Alexa Shopping List Sync Fixed
-version: "2410.276b"
+version: "2410.276"
 slug: fixed_addon
 description: Alexa Shopping List synchronisation server fixed
 url: "https://github.com/matte-oss/alexa-shopping-list-fix"
